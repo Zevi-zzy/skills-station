@@ -36,6 +36,12 @@ Welcome to Skills Station! This repository is a collection of useful skills for 
 - **Source**: Trae built-in skill / Trae 内置技能
 - **Status**: Created by Trae / Trae 创建
 
+### 6. resume-generator
+- **Description**: A professional HTML resume generator skill. It creates a beautifully designed, print-ready resume based on user input.
+- **中文描述**: 一个基于 HTML/CSS 的专业简历生成器。它能够生成排版精美、适合打印的简历。
+- **Source**: Custom Skill / 自定义技能
+- **Status**: Created by User / 用户创建
+
 ## How to Use / 如何使用
 
 To use these skills, you can install them using the `npx skills add` command or by copying the skill directories to your project's `.agents/skills` or `.trae/skills` directory.
