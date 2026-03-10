@@ -30,6 +30,12 @@ Welcome to Skills Station! This repository is a collection of useful skills for 
 - **Source**: Trae built-in skill / Trae 内置技能
 - **Status**: Created by Trae / Trae 创建
 
+### 5. find-skills
+- **Description**: Helps users discover and install agent skills.
+- **中文描述**: 帮助用户发现和安装 Agent 技能。
+- **Source**: Trae built-in skill / Trae 内置技能
+- **Status**: Created by Trae / Trae 创建
+
 ## How to Use / 如何使用
 
 To use these skills, you can install them using the `npx skills add` command or by copying the skill directories to your project's `.agents/skills` or `.trae/skills` directory.
