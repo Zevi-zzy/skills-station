@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "roadmap-planning": {
+      "source": "deanpeters/product-manager-skills",
+      "sourceType": "github",
+      "computedHash": "15c94d46b55ecbcf40ad3df2dba5deca9e212ee0e99574f97f17ebacd513e96a"
+    }
+  }
+}

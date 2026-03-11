@@ -42,6 +42,36 @@ Welcome to Skills Station! This repository is a collection of useful skills for 
 - **Source**: Custom Skill / 自定义技能
 - **Status**: Created by User / 用户创建
 
+### 7. roadmap-planning
+- **Description**: Assist in creating product roadmaps and balancing feature priorities.
+- **中文描述**: 辅助制定产品路线图，平衡功能优先级。
+- **Source**: [deanpeters/product-manager-skills](https://github.com/deanpeters/product-manager-skills)
+- **Status**: Third-party contribution / 第三方贡献
+
+### 8. product-strategy-session
+- **Description**: Guide product strategy discussions, analyze market positioning and competitive advantages.
+- **中文描述**: 引导进行产品策略讨论，分析市场定位和竞争优势。
+- **Source**: [deanpeters/product-manager-skills](https://github.com/deanpeters/product-manager-skills)
+- **Status**: Third-party contribution / 第三方贡献
+
+### 9. feature-prioritization-assistant
+- **Description**: Feature prioritization assistant, using RICE or ICE models for scientific scoring.
+- **中文描述**: 功能优先级排序助手，使用 RICE 或 ICE 模型进行科学评分。
+- **Source**: [pmprompt/claude-plugin-product-management](https://github.com/pmprompt/claude-plugin-product-management)
+- **Status**: Third-party contribution / 第三方贡献
+
+### 10. company-research
+- **Description**: Quickly research target companies or competitors' business background, product lines, and market performance.
+- **中文描述**: 快速调研目标公司或竞争对手的业务背景、产品线和市场表现。
+- **Source**: [deanpeters/product-manager-skills](https://github.com/deanpeters/product-manager-skills)
+- **Status**: Third-party contribution / 第三方贡献
+
+### 11. notebooklm
+- **Description**: Integrate NotebookLM's capabilities, perfect for organizing technical documents and industry reports.
+- **中文描述**: 集成 NotebookLM 的能力，非常适合整理海量的技术文档、行业报告并进行问答。
+- **Source**: [pleaseprompto/notebooklm-skill](https://github.com/pleaseprompto/notebooklm-skill)
+- **Status**: Third-party contribution / 第三方贡献
+
 ## How to Use / 如何使用
 
 To use these skills, you can install them using the `npx skills add` command or by copying the skill directories to your project's `.agents/skills` or `.trae/skills` directory.
